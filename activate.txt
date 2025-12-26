@@ -1,0 +1,5 @@
+
+.\venv\Scripts\Activate.ps1
+python backend/video_detect.py
+
+
